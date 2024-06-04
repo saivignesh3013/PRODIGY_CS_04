@@ -1,4 +1,4 @@
-# Keystroke Logging (Educational Purposes Only)
+# KeyLogger (Educational Purposes Only)
 
 **Author: Erramsetti Sai Vignesh**
 
